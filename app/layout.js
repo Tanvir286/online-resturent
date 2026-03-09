@@ -54,15 +54,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       {/* Apply multiple fonts using their variable classes */}
       <body className={`${roboto.variable} ${figtree.variable} ${dmSans.variable} ${inter.variable} ${kumbhSans.variable} ${yujiMai.variable}`}>
-        
            <StoreProvider>
-           
                <Navbar/>
                 {children}
                <Footer/>   
-
            </StoreProvider>
-       
       </body>
     </html>
   );
