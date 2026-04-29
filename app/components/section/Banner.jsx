@@ -93,13 +93,11 @@ const Banner = () => {
                     <FeatureItem 
                         imageSrc="/images/banner/secure.png" 
                         title="Secure Payment" 
-                        description="100% Secure Payment Method" 
+                        description="100% Secure Payment MethodS" 
                     />
                 </div>
-
             </div>
             {/* box part end */}
-
         </div>
     );
 };
