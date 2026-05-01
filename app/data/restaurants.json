@@ -68,7 +68,7 @@
                 "/images/shop/06.jpg"
             ],
             "title": "Food Court",
-            "rating": "4.3",
+            "rating": "4.7",
             "location": "Bashundhara City Mall, Dhaka",
             "description": "A bustling food court offering a wide variety of local and international cuisine."
         },
@@ -92,7 +92,7 @@
                 "/images/shop/02.jpg"
             ],
             "title": "Grill House",
-            "rating": "4.7",
+            "rating": "4.6",
             "location": "Banani Road 11, Dhaka",
             "description": "A popular spot for grilled meats and seafood, known for its vibrant atmosphere."
         },
@@ -104,7 +104,7 @@
                 "/images/shop/11.jpg"
             ],
             "title": "Fish Hut",
-            "rating": "4.4",
+            "rating": "4.5",
             "location": "Mirpur 10, Dhaka",
             "description": "Specializing in fresh fish curries and Bengali comfort food."
         },
