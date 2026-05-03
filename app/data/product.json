@@ -4,13 +4,13 @@
         "id": 1,
         "image": "/images/product/one.png",
         "title": "Cheese Pizza",
-        "price": 15
+        "price": 26
       },
       {
         "id": 2,
         "image": "/images/product/two.png",
         "title": "Burger",
-        "price": 13
+        "price": 17
       },
       {
         "id": 3,
