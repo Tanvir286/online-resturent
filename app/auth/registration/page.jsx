@@ -72,7 +72,6 @@ const RegistrationPage = () => {
                                 {passwordVisible ? '🙈' : '👁️'}
                             </button>
                         </div>
-
                         {/* Remember me checkbox and forget password link */}
                         <div className="flex items-center justify-between mb-4">
                             <label className="flex items-center text-sm text-gray-600">
@@ -80,7 +79,6 @@ const RegistrationPage = () => {
                             </label>
                             
                         </div>
-
                         {/* Submit button for the login form */}
                         <button
                             type="submit"
